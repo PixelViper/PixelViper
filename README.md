@@ -1,4 +1,4 @@
-- Hey, I'm PixelViper
-- UI Designer
-- Programming Student
-- Gaming YouTuber
+- UI Design Intermidiate
+- I like Game Design.
+- Back-end + Front-end Web Development
+- very pro
