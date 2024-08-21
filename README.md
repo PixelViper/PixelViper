@@ -1,4 +1,2 @@
-- UI Design Intermidiate
-- I like Game Design.
-- Back-end + Front-end Web Development
-- very pro
+- Practicing UI/UX Design
+- Product Design
